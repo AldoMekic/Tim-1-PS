@@ -1,2 +1,2 @@
 Upravljanje projektima
-Faza analize
+Moguce aktivnosti
