@@ -1,2 +1,2 @@
 Upravljanje projektima
-Pocetak
+Faza analize
